@@ -13,3 +13,12 @@ Does this linear model predict mpg of MechaCar prototypes effectively? Why or wh
 
 ![lot_summary](https://user-images.githubusercontent.com/107599510/195185835-a4bd94f8-ab6e-41ae-8066-07ca430d147a.png)
 
+## T-Tests on Suspension Coils
+
+![ttest_all](https://user-images.githubusercontent.com/107599510/195193649-3ab68ad1-5b4c-4ace-a285-a22f9ad539c0.png)
+
+![ttest_lot1](https://user-images.githubusercontent.com/107599510/195193725-384ef9a5-20f3-4357-b6af-69ccb6c26fe5.png)
+
+![ttest_lot2](https://user-images.githubusercontent.com/107599510/195193734-a28f41ea-da89-4371-8376-be07ba3b255b.png)
+
+![ttest_lot3](https://user-images.githubusercontent.com/107599510/195193740-1feff5a0-9a8e-40ad-917a-0892c42ff610.png)
