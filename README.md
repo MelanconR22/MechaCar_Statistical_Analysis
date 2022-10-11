@@ -10,3 +10,6 @@ Does this linear model predict mpg of MechaCar prototypes effectively? Why or wh
 
 
 ![total_summary](https://user-images.githubusercontent.com/107599510/195167569-9ac7a78e-0538-4f5b-816c-444c10797be6.png)
+
+![lot_summary](https://user-images.githubusercontent.com/107599510/195185835-a4bd94f8-ab6e-41ae-8066-07ca430d147a.png)
+
